@@ -44,7 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MercadoPagoFolder\IMercadoPagoPayment.cs" />
-    <Compile Include="MercadoPagoPayment.cs" />
+    <Compile Include="PaymentMethod.cs" />
     <Compile Include="PayonnerFolder\IPayonnerPayment.cs" />
     <Compile Include="PayPalFolder\IPayPalPayment.cs" />
     <Compile Include="MercadoPagoFolder\MercadoPagoAdapter.cs" />
